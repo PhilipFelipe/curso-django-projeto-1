@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b667a3a7-4360-4e25-9d7d-a5d443831909" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/curso-django-projeto-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso-django-projeto-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_templates/global/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/templates/recipes/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -23,6 +44,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2GcxjiVN3Vrpzx9dnK8RgpSqpPe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,25 +55,181 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "Project.color": "4a120f",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/wakez/Documents/Workspace/python-udemy/Django-REST/curso-django-projeto-1/recipes/template_temp",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/wakez/Documents/Workspace/python-udemy/Django-REST/curso-django-projeto-1/manage.py",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "com.jetbrains.django.DjangoModulesConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\recipes\templates\recipes\pages" />
+      <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\recipes\tests" />
+      <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\recipes\templates\recipes\partials" />
+      <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\recipes\templates\recipes" />
       <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\recipes\template_temp" />
-      <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\base_templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\base_static\global\css" />
+      <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\recipes\templates\recipes\pages" />
+      <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\recipes\templates\recipes" />
       <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\recipes\template_temp\temp" />
       <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\base_templates\global" />
-      <recent name="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\recipes\templates\recipes" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="Test: recipes.tests" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="curso-django-projeto-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="recipes.tests" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: recipes.tests.test_recipe_urls.RecipeURLsTest.test_recipe_search_url_is_correct" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="curso-django-projeto-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="recipes.tests.test_recipe_urls.RecipeURLsTest.test_recipe_search_url_is_correct" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_load_uses_correct_view_function" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="curso-django-projeto-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_load_uses_correct_view_function" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_loads_correct_template" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="curso-django-projeto-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_loads_correct_template" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_raises_404_if_no_search_term" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="curso-django-projeto-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_raises_404_if_no_search_term" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="curso-django-projeto-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\wakez\Documents\Workspace\python-udemy\Django-REST\curso-django-projeto-1\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10 (curso-django-projeto-1)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django tests.Test: recipes.tests" />
+      <item itemvalue="Django tests.Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_raises_404_if_no_search_term" />
+      <item itemvalue="Django tests.Test: recipes.tests.test_recipe_urls.RecipeURLsTest.test_recipe_search_url_is_correct" />
+      <item itemvalue="Django tests.Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_load_uses_correct_view_function" />
+      <item itemvalue="Django tests.Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_loads_correct_template" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: recipes.tests" />
+        <item itemvalue="Django tests.Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_loads_correct_template" />
+        <item itemvalue="Django tests.Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_raises_404_if_no_search_term" />
+        <item itemvalue="Django tests.Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_load_uses_correct_view_function" />
+        <item itemvalue="Django tests.Test: recipes.tests.test_recipe_urls.RecipeURLsTest.test_recipe_search_url_is_correct" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,8 +239,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666701811957</updated>
+      <workItem from="1666957688319" duration="596000" />
+      <workItem from="1666958319318" duration="8314000" />
+      <workItem from="1666968147958" duration="3000" />
+      <workItem from="1667044985701" duration="3505000" />
+      <workItem from="1667084244106" duration="2558000" />
+      <workItem from="1667133429110" duration="591000" />
+      <workItem from="1667212218769" duration="23000" />
+      <workItem from="1667224893533" duration="2680000" />
+      <workItem from="1667227651341" duration="730000" />
+      <workItem from="1668082023714" duration="4024000" />
+      <workItem from="1668086136138" duration="1385000" />
+      <workItem from="1668096971899" duration="19000" />
+      <workItem from="1668601128723" duration="80000" />
+      <workItem from="1668601795931" duration="687000" />
+      <workItem from="1668603406214" duration="4000" />
+      <workItem from="1668769697849" duration="11081000" />
+      <workItem from="1668800963614" duration="1301000" />
+      <workItem from="1668802341066" duration="5763000" />
+      <workItem from="1668808376876" duration="1101000" />
+      <workItem from="1668810265988" duration="36000" />
+      <workItem from="1672656062650" duration="6264000" />
+      <workItem from="1672671254111" duration="75000" />
+      <workItem from="1672841229722" duration="3113000" />
+      <workItem from="1672848182482" duration="282000" />
+      <workItem from="1672917269719" duration="1048000" />
+      <workItem from="1672919002384" duration="7384000" />
+      <workItem from="1673351064155" duration="2643000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -72,5 +282,46 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/recipes/tests/test_recipe_views.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_detail_view_returns_404_if_no_recipes_found.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_detail_view_returns_404_if_no_recipes_found Coverage Results" MODIFIED="1668806783885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_home_template_dont_load_recipes_not_published.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_home_template_dont_load_recipes_not_published Coverage Results" MODIFIED="1672661067072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_category_view_returns_404_if_no_recipes_found.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_category_view_returns_404_if_no_recipes_found Coverage Results" MODIFIED="1668806803416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_urls_RecipeURLsTest_test_recipe_home_view_loads_correct_template.coverage" NAME="Test: recipes.tests.test_recipe_urls.RecipeURLsTest.test_recipe_home_view_loads_correct_template Coverage Results" MODIFIED="1668805930418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_RecipeViewsTest_test_recipe_home_view_function_is_correct.coverage" NAME="Test: recipes.tests.RecipeViewsTest.test_recipe_home_view_function_is_correct Coverage Results" MODIFIED="1668804530938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_model_recipe_RecipeModelTest_test_recipe_fields_max_length.coverage" NAME="Test: recipes.tests.test_recipe_model_recipe.RecipeModelTest.test_recipe_fields_max_length Coverage Results" MODIFIED="1672917725069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_model_recipe_RecipeModelTest_test_preparation_steps_is_html_is_false_by_default.coverage" NAME="Test: recipes.tests.test_recipe_model_recipe.RecipeModelTest.test_preparation_steps_is_html_is_false_by_default Coverage Results" MODIFIED="1672918211077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests.coverage" NAME="Test: recipes.tests Coverage Results" MODIFIED="1673352790537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_category_template_loads_recipes.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_category_template_loads_recipes Coverage Results" MODIFIED="1672660115571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_model_recipe_RecipeModelTest_test_recipe_title_raises_error_if_title_has_more_than_65_chars.coverage" NAME="Test: recipes.tests.test_recipe_model_recipe.RecipeModelTest.test_recipe_title_raises_error_if_title_has_more_than_65_chars Coverage Results" MODIFIED="1672842302055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_model_recipe_RecipeModelTest_test_the_test.coverage" NAME="Test: recipes.tests.test_recipe_model_recipe.RecipeModelTest.test_the_test Coverage Results" MODIFIED="1672841399604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_search_loads_correct_template.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_loads_correct_template Coverage Results" MODIFIED="1673352658879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_detail_template_loads_correct_recipe.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_detail_template_loads_correct_recipe Coverage Results" MODIFIED="1672660500565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_urls_RecipeURLsTest_test_recipe_home_views_returns_status_code_200_OK.coverage" NAME="Test: recipes.tests.test_recipe_urls.RecipeURLsTest.test_recipe_home_views_returns_status_code_200_OK Coverage Results" MODIFIED="1668805620299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_model_recipe_RecipeModelTest_test_recipe_string_representation.coverage" NAME="Test: recipes.tests.test_recipe_model_recipe.RecipeModelTest.test_recipe_string_representation Coverage Results" MODIFIED="1672921123119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$main.coverage" NAME="main Coverage Results" MODIFIED="1667227015085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__localcode" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_home_template_loads_recipes.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_home_template_loads_recipes Coverage Results" MODIFIED="1672658884508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_search_raises_404_if_no_search_term.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_raises_404_if_no_search_term Coverage Results" MODIFIED="1673352449145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_model_category_CategoryModelTest_test_recipe_category_model_string_representation.coverage" NAME="Test: recipes.tests.test_recipe_model_category.CategoryModelTest.test_recipe_category_model_string_representation Coverage Results" MODIFIED="1672922137395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_urls_RecipeURLsTest_test_recipe_home_template_shows_no_recipes_found_if_no_recipes.coverage" NAME="Test: recipes.tests.test_recipe_urls.RecipeURLsTest.test_recipe_home_template_shows_no_recipes_found_if_no_recipes Coverage Results" MODIFIED="1668806238758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_model_category_CategoryModelTest_test_recipe_category_model_name_max_length_is_65_chars.coverage" NAME="Test: recipes.tests.test_recipe_model_category.CategoryModelTest.test_recipe_category_model_name_max_length_is_65_chars Coverage Results" MODIFIED="1672923234471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_detail_template_dont_load_recipe_not_published.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_detail_template_dont_load_recipe_not_published Coverage Results" MODIFIED="1672661606586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_search_load_uses_correct_view_function.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_search_load_uses_correct_view_function Coverage Results" MODIFIED="1672926199681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$manage.coverage" NAME="manage Coverage Results" MODIFIED="1673352794852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_RecipeURLsTest_test_recipe_home_url_is_correct.coverage" NAME="Test: recipes.tests.RecipeURLsTest.test_recipe_home_url_is_correct Coverage Results" MODIFIED="1668802676575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_home_template_shows_no_recipes_found_if_no_recipes.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_home_template_shows_no_recipes_found_if_no_recipes Coverage Results" MODIFIED="1672659420132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_urls_RecipeURLsTest_test_recipe_search_url_is_correct.coverage" NAME="Test: recipes.tests.test_recipe_urls.RecipeURLsTest.test_recipe_search_url_is_correct Coverage Results" MODIFIED="1672925594836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/curso_django_projeto_1$Test__recipes_tests_test_recipe_views_RecipeViewsTest_test_recipe_category_template_dont_load_recipes_not_published.coverage" NAME="Test: recipes.tests.test_recipe_views.RecipeViewsTest.test_recipe_category_template_dont_load_recipes_not_published Coverage Results" MODIFIED="1672661357188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

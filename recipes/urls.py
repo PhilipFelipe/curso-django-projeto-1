@@ -1,10 +1,12 @@
 from django.urls import path
-from recipes.views import home, about, contact
 
+from . import views
 
-# HTTP REQUEST <-> HTTP RESPONSE
+app_name = 'recipes'
+
 urlpatterns = [
-    path('', home),  # HOME
-    path('about/', about),  # ABOUT
-    path('contact/', contact),  # Contact
+    path('', views.home, name='home'),
+    path('recipes/search/', views.search, name='search'),
+    path('recipes/category/<int:category_id>/', views.category, name='category'),
+    path('recipes/<int:id>/', views.recipe, name='recipe'),
 ]
